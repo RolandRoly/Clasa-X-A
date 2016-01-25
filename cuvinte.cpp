@@ -1,4 +1,5 @@
 #include<iostream> 
+#include<string.h> 
 using namespace std;
 /**
  * Se citeste un sir de caractere. Sa se numere  cuvintele din sir, stiind ca ele sunt separate prin una sau mai multe spatii.
